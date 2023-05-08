@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Entornos de desarrollo y codificación',
+    descripcionCurso:
+      'Este componente formativo está orientado a entregar los conceptos y conocimientos en instalación y puesta en marcha de entorno de trabajo, conocer los estándares de codificación, manejo de variables, funciones, estructuras de control, clases objetos y gestión de proyectos en Python.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,27 +32,51 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: '¿Qué es un editor de código?',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Diferentes editores de código',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Proceso de instalación de visual estudio code',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Preparar entorno de desarrollo virtual',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Manejo y control de versiones',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Estándares para la codificación de software',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo:
+          'Creación y manejo de variables, estructuras de control, funciones, clases y objetos',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Gestión de proyectos en Python',
         desarrolloContenidos: true,
       },
     ],
@@ -97,32 +122,101 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '¿Qué es un editor de código?',
+      referencia:
+        'Visual Studio Code. (s.f.).  <em>Getting Started.</em> Docs.',
+      tipo: 'Manual de referencia',
+      link: 'https://code.visualstudio.com/docs',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Manejo y control de versiones',
+      referencia:
+        'Dauzon, S. (2022). <em>Git: Controle la gestión de sus versiones (conceptos, utilización y casos prácticos).</em>  Ediciones ENI.',
+      tipo: 'Libro',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_biblioteca_eniEPT3GIT',
+    },
+    {
+      tema: 'Manejo y control de versiones',
+      referencia:
+        'Don Eber. (2021). <em>Instalación de Git en Windows paso a paso | [2021|2022].</em> [Video] YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=cYLapo1FFmA',
+    },
+    {
+      tema: 'Manejo y control de versiones',
+      referencia:
+        'Espitia, W. (2021). <em>Cómo crear una cuenta de GitHub desde cero en 2021.</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=jwFSIEi_d7E',
+    },
+    {
+      tema:
+        'Creación y manejo de variables, estructuras de control, funciones, clases y objetos',
+      referencia:
+        'Commit That Line! (2020). <em>Las funciones en Python | ¿Para qué sirven y cómo se usan?</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=hLRoDs4wNCU',
+    },
+    {
+      tema: '. Gestión de proyectos en Python',
+      referencia:
+        'Hinojosa Gutiérrez, Á. P. (2016). <em>Python: Paso a paso.</em> Ediciones de la U, Ra-Ma.',
+      tipo: 'Libro',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_ebooks0004998',
+    },
+    {
+      tema: 'Gestión de proyectos en Python',
+      referencia: 'Python.org (s.f.). <em>Python 3.10.5 documentation.</em>',
+      tipo: 'Manual de referencia',
+      link: 'https://docs.python.org/3/',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: '<em>Clase</em>',
+      significado:
+        'Es una plantilla para el objetivo de la creación de objetos de datos según un modelo predefinido. Las clases se utilizan para representar entidades o conceptos, como los sustantivos en el lenguaje.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: '<em>Editor de código</em>',
+      significado:
+        'Es un programa que permite la creación y edición de archivos de código fuente.',
+    },
+    {
+      termino: '<em>Entornos virtuales de desarrollo</em>',
+      significado:
+        'Es la creación de directorios aislados los cuales permiten realizar la configuración y componentes que sólo requiere tu proyecto sin necesidad de afectar todo el sistema en general.',
+    },
+    {
+      termino: '<em>Estructuras de control</em>',
+      significado:
+        'Son utilizadas para validar y tomar decisiones dentro de un programa y que a su vez permiten la ejecución de bloques de código.',
+    },
+    {
+      termino: '<em>Función</em>',
+      significado:
+        'Las funciones son como una especie de caja las cuales pueden contener una serie de códigos los cuales pueden ser invocados las veces que sea necesaria dentro del programa.',
+    },
+    {
+      termino: '<em>GitHub</em>',
+      significado:
+        'GitHub es un repositorio de código que se encuentra alojado en la nube y se utiliza para guardar archivos de código fuente y realizarle seguimiento a los mismos con respecto a los cambios o actualizaciones que estos puedan recibir.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Dauzon, S. (2022). <em>Git: controle la gestión de sus versiones (conceptos, utilización y casos prácticos).</em> 2ª Edición. ed. Ediciones ENI.',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_biblioteca_eniEPT3GIT',
+    },
+    {
+      referencia:
+        'Hinojosa Gutiérrez, Á. P. (2016). <em>Python: Paso a Paso.</em> Primera Edición. ed. Ediciones De La U, Ra-Ma,',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_ebooks0004998',
     },
   ],
   creditos: [
