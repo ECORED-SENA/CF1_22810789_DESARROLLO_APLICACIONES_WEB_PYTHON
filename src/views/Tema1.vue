@@ -35,33 +35,21 @@
               .bg-c5.p-5
                 p Un ejemplo de ello es la sintaxis, por ejemplo, el lenguaje Python comparado con el lenguaje C# es totalmente distinto, mientras que el lenguaje C# permite colocar utilizar llaves para abrir condicionales, ciclos y funciones, las cuales se pueden colocar en cualquier parte del código, este permite darle un estilo de tabulación adecuado a ese diseño específico, es decir adapta la tabulación del código de acuerdo con ese lenguaje. Mientras que la sintaxis de Python no permite que se coloque una línea de código debajo de alguna instrucción, para evitar esto el editor de código coloca un espacio de tabulación en el comando que se encuentra debajo de un comando #[em.txt-c1 #[strong if, else, for, while]] entre otros, para evitar que se genere un error por tabulación del código, estos aspectos hacen de un editor de código una herramienta que ayuda a organizar el código fuente de una manera sencilla y eficiente al programador y es muy valioso al momento de realizar la codificación de un programa.
 
-        p.mb-4 Como se puede observar en la siguiente figura 1 se evidencia la manera en cómo un editor de código, en este caso visual studio, realiza el ordenamiento de la estructura del código fuente para evitar que puedan existir errores y también ayudar en el aspecto visual al usuario para identificar las líneas de código de una manera mucho más comprensible y ayude a la solución de errores o problemas que se puedan presentar en el momento de realizar la codificación del programa; este es un claro ejemplo de las ventajas que ofrecen los editores de código a los desarrolladores de software:
-
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
-      br
+        .cajon-b.p-3.mb-5
+          .row.align-items-center
+            .col
+              p.mb-0 Como se puede observar en la siguiente figura 1 se evidencia la manera en cómo un editor de código, en este caso #[em visual studio], realiza el ordenamiento de la estructura del código fuente para evitar que puedan existir errores y también ayudar en el aspecto visual al usuario para identificar las líneas de código de una manera mucho más comprensible y ayude a la solución de errores o problemas que se puedan presentar en el momento de realizar la codificación del programa; este es un claro ejemplo de las ventajas que ofrecen los editores de código a los desarrolladores de software:
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema1/img3.svg", style="width: 75px")
 
 
+        .row.justify-content-center
+          .col-lg-8
+            .titulo-sexto.color-acento-contenido.mb-4
+              h5 Figura 1. #[span Estructura de código fuente en Python]
+            figure
+              img(src="@/assets/curso/temas/tema1/img4.png")
 
 </template>
 
