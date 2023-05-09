@@ -3,16 +3,20 @@ export default {
     componenteFormativo: 'Entornos de desarrollo y codificación',
     descripcionCurso:
       'Este componente formativo está orientado a entregar los conceptos y conocimientos en instalación y puesta en marcha de entorno de trabajo, conocer los estándares de codificación, manejo de variables, funciones, estructuras de control, clases objetos y gestión de proyectos en Python.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/float-1.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/float-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/float-3.svg'),
       },
     ],
   },
