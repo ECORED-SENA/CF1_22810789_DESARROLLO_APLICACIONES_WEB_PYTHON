@@ -31,7 +31,7 @@
             .col-auto
               figure.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema1/img2.svg", style="width: 350px")
-            .col-7
+            .col
               .bg-c5.p-5
                 p Un ejemplo de ello es la sintaxis, por ejemplo, el lenguaje Python comparado con el lenguaje C# es totalmente distinto, mientras que el lenguaje C# permite colocar utilizar llaves para abrir condicionales, ciclos y funciones, las cuales se pueden colocar en cualquier parte del código, este permite darle un estilo de tabulación adecuado a ese diseño específico, es decir adapta la tabulación del código de acuerdo con ese lenguaje. Mientras que la sintaxis de Python no permite que se coloque una línea de código debajo de alguna instrucción, para evitar esto el editor de código coloca un espacio de tabulación en el comando que se encuentra debajo de un comando #[em.txt-c1 #[strong if, else, for, while]] entre otros, para evitar que se genere un error por tabulación del código, estos aspectos hacen de un editor de código una herramienta que ayuda a organizar el código fuente de una manera sencilla y eficiente al programador y es muy valioso al momento de realizar la codificación de un programa.
 
