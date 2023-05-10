@@ -4,8 +4,11 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
-      h1 Titulo de primer nivel
+        span 8
+      h1 Gestión de proyectos en Python
+
+
+    p La gestión de proyectos en Python es la forma en cómo se pueden administrar diferentes espacios, carpetas y directorios que se puedan llegar a utilizar dentro del aplicativo a desarrollar.
 
 </template>
 

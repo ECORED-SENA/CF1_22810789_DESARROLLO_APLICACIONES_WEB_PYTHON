@@ -32,6 +32,20 @@
   100%
     transform: translateX(0px)
 
+@keyframes float3
+  0%
+    transform: translateY(12px)
+
+  100%
+    transform: translateY(-20px)
+
+@keyframes float4
+  0%
+    transform: translateY(54px)
+
+  100%
+    transform: translateY(-12px)
+
 .bg-c1
   background: #D5CEF8
   background-image: url(../assets/curso/temas/intro/fondo-cajon.svg)
@@ -60,17 +74,138 @@
     top: -2%
     left: 6%
 
-
 .bg-c5
-  background-image: url(../assets/curso/temas/tema1/fondo-cajon-lila.svg)
-  background-size: cover
-  background-position: right bottom
-  background-repeat: no-repeat
+  //background-image: url(../assets/curso/temas/tema1/fondo-cajon-lila.png)
+  background:  #F2EFFF
   border-radius: 16px
+  position: relative
+  @media screen and (max-width: 991px)
+    background: transparent
+    position: static
+    padding-top: 1.6rem
 
+  &::before
+    position: absolute
+    content: ""
+    left: 0
+    top: 12%
+    width: 54px
+    height: 106px
+    background-image: url(../assets/curso/temas/tema1/float-2.png)
+    @media screen and (max-width: 991px)
+      width: 0
+
+  &::after
+    position: absolute
+    content: ""
+    bottom: 0
+    right: 0
+    width: 176px
+    height: 104px
+    background-image: url(../assets/curso/temas/tema1/float-3.png)
+
+
+.bg-c5-body
+  padding-top: 3.5rem
+  padding-left: 4rem
+  padding-right: 4rem
+  padding-bottom: 3rem
+  @media screen and (max-width: 1399px)
+    padding-top: 2.5rem
+    padding-bottom: 2rem
+    font-size: .92rem
+    padding-right: 3rem
+
+  @media screen and (max-width: 991px)
+    font-size: 1rem
+    padding: 0
+
+.bg-c6
+  background: $color-secundario
+  padding: 24px 32px
+  border-radius: 16px
+  @media screen and (max-width: 1199px)
+    padding: 24px
+
+.bg-c7
+  background: url(../assets/curso/bg/bg-lila.svg)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: top
+  border-radius: 16px
+  position: relative
+  padding-top: 70px
+  padding-bottom: 40px
+  @media screen and (max-width: 991px)
+    padding: 24px
+    padding-top: 60px
+
+  &::before
+    position: absolute
+    content: ""
+    background-image: url(../assets/curso/temas/tema4/float-2.png)
+    width: 129px
+    height: 59px
+    top: -2%
+    left: 1.5%
+
+.bg-c8
+  background: #F5F2FF
+  padding: 24px 32px
+  border-radius: 16px
+  @media screen and (max-width: 1199px)
+    padding: 24px
+
+.bg-c9
+  background: #D6EAFF
+  padding: 35px 28px
+  border-radius: 14px
+
+.bg-c10
+  background-image: url(../assets/curso/bg/bg-t5.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: repeat-x
+  background-size: cover
+  background-position: top
+  margin-bottom: -48px
+
+.bg-c11
+  background: #D5CEF8
+  padding: 36px 42px
+
+.bg-c12
+  background: #D5CEF8
+  border-radius: 14px
+  font-size: .92rem
+
+.bg-c13
+  background-image: url(../assets/curso/bg/bg-t6.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: repeat-x
+  background-size: cover
+  background-position: top
+  margin-bottom: -48px
+
+.bg-c14
+  background-image: url(../assets/curso/bg/bg-t6b.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: repeat-x
+  background-size: cover
+  background-position: top
+  margin-bottom: -48px
+
+.img-animada
+  animation: float3 3.2s ease-in-out infinite alternate
+  position: absolute
+  top: 0
+  left: 3%
+  @media screen and (max-width: 1199px)
+    animation: float4 3.2s ease-in-out infinite alternate
 
 .txt-c1
   color: #362B9E
+.txt-c2
+  color: #0174D2
 
 .cajon-b:before
   content: ''
@@ -82,6 +217,25 @@
   left: 70%
   bottom: 50%
   background-color: #D5CCFE
+  @media screen and (max-width: 991px)
+    left: 40%
+    bottom: 70%
 
 .titulo-sexto h5 span
   font-weight: 400
+
+.tarjeta--lila
+  background-image: url(../assets/curso/bg/slide_lila.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.tarjeta--celeste
+  background-image: url(../assets/curso/bg/slide_celeste.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.tarjeta.color-acento-contenido--borde
+  background-color: rgba(214, 234, 255, .47)
+  color: #12263F
+  border: 0
+
