@@ -114,7 +114,12 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
+        titulo: 'Descargar PDF',
+        download: 'downloads/PDF.pdf',
+      },
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar HTML',
         download: 'downloads/material.zip',
       },
       {
@@ -179,32 +184,32 @@ export default {
   ],
   glosario: [
     {
-      termino: '<em>Clase</em>',
+      termino: 'Clase',
       significado:
         'Es una plantilla para el objetivo de la creación de objetos de datos según un modelo predefinido. Las clases se utilizan para representar entidades o conceptos, como los sustantivos en el lenguaje.',
     },
     {
-      termino: '<em>Editor de código</em>',
+      termino: 'Editor de código',
       significado:
         'Es un programa que permite la creación y edición de archivos de código fuente.',
     },
     {
-      termino: '<em>Entornos virtuales de desarrollo</em>',
+      termino: 'Entornos virtuales de desarrollo',
       significado:
         'Es la creación de directorios aislados los cuales permiten realizar la configuración y componentes que sólo requiere tu proyecto sin necesidad de afectar todo el sistema en general.',
     },
     {
-      termino: '<em>Estructuras de control</em>',
+      termino: 'Estructuras de control',
       significado:
         'Son utilizadas para validar y tomar decisiones dentro de un programa y que a su vez permiten la ejecución de bloques de código.',
     },
     {
-      termino: '<em>Función</em>',
+      termino: 'Función',
       significado:
         'Las funciones son como una especie de caja las cuales pueden contener una serie de códigos los cuales pueden ser invocados las veces que sea necesaria dentro del programa.',
     },
     {
-      termino: '<em>GitHub</em>',
+      termino: 'GitHub',
       significado:
         'GitHub es un repositorio de código que se encuentra alojado en la nube y se utiliza para guardar archivos de código fuente y realizarle seguimiento a los mismos con respecto a los cambios o actualizaciones que estos puedan recibir.',
     },
