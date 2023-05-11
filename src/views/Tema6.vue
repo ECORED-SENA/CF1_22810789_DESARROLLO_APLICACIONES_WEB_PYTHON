@@ -94,7 +94,7 @@
           .col-lg-8
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 2. #[span  Estándar Camel Case en Python]
-            figure
+            figure.figura
               img(src="@/assets/curso/temas/tema6/img3.png")
               figcaption Nota. Pantalla en Visual Studio Code.
 
