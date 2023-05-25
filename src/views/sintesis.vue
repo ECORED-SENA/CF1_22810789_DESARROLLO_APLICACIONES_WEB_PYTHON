@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p Para garantizar la calidad del trabajo, la satisfacción de todos los públicos involucrados y cumplir con los requerimientos y necesidades del cliente, es necesario el cumplimiento de los pasos y puntos vistos a través del componente, para que, junto a una correcta Gestión del Proyecto, se logre un adecuado entorno de desarrollo y codificación; teniendo en cuenta lo siguiente:
 
     .row.justify-content-center
       .col-lg-10.mb-5

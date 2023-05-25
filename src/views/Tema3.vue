@@ -13,11 +13,11 @@
       )
       .bloque-texto-g__texto.p-4
         br
-        p Como se ha abordado hasta este momento, existen diferentes editores de código, los cuales permiten realizar el proceso de codificación de las aplicaciones informáticas, cada uno de ellos ofrece diversas ventajas y desventajas, llegando a un punto de no poder establecer cuál de todos es el mejor, sino que de forma individual cada programador elegirá con el que se sienta más cómodo utilizando y terminará convirtiéndose en su editor de preferencia.
+        p Como se ha abordado hasta este momento, existen diferentes editores de código, los cuales permiten realizar el proceso de codificación de las aplicaciones informáticas. Cada uno de ellos ofrece diversas ventajas y desventajas, llegando a un punto de no poder establecer cuál de todos es el mejor, sino que de forma individual cada programador elegirá aquel con el que se sienta más cómodo y terminará convirtiéndose en su editor de preferencia.
         br
         br
 
-    p.mb-4 Sabiendo esto, se puede ver los pasos a seguir para realizar la instalación de la herramienta en el computador; para este caso visual studio code, el editor que se utilizará para el desarrollo temático. Por favor tener en cuenta cada paso que se deberá llevar a cabo para realizar la instalación de esta herramienta de manera correcta:
+    p.mb-4 Sabiendo esto, se presentan los pasos a seguir para realizar la instalación de la herramienta en el computador; para este caso Visual Studio Code, el editor que se utilizará para el desarrollo temático. Por favor tener en cuenta cada paso que se deberá llevar a cabo para realizar la instalación de esta herramienta de manera correcta:
 
     .tarjeta.tarjeta--lila.p-4
       .px-4
@@ -25,11 +25,11 @@
           .row.my-lg-4
             .col-md-4.mb-4.mb-md-0
               h4 Paso 1
-              p Realizar la descarga de la aplicación. Lo primero que debemos hacer es dirigirnos a la página oficial para la descarga de los instaladores que utilizaremos para hacer el proceso de instalación en nuestra computadora. Ingresar al enlace https://code.visualstudio.com/ como se muestra en la imagen:
+              p Realizar la descarga de la aplicación. Lo primero que debemos hacer es dirigirnos a la página oficial para la descarga de los instaladores que utilizaremos para hacer el proceso de instalación en nuestra computadora. Ingresar al enlace <a href="https://code.visualstudio.com/" target="_blank">https://code.visualstudio.com/</a> como se muestra en la imagen:
 
             .col-md-8
               figure
-                img(src='@/assets/curso/temas/tema3/slide-1.png')
+                img(src='@/assets/curso/temas/tema3/slide-1.png', alt="")
 
           .row.my-lg-4
             .col-md-4.mb-4.mb-md-0
@@ -38,7 +38,7 @@
 
             .col-md-8
               figure
-                img(src='@/assets/curso/temas/tema3/slide-2.png')
+                img(src='@/assets/curso/temas/tema3/slide-2.png', alt="")
 
           .row.my-lg-4
             .col-md-4.mb-4.mb-md-0
@@ -47,27 +47,27 @@
 
             .col-md-8
               figure
-                img(src='@/assets/curso/temas/tema3/slide-3.png')
+                img(src='@/assets/curso/temas/tema3/slide-3.png', alt="")
 
 
           .row.my-lg-4
             .col-md-4.mb-4.mb-md-0
               h4 Paso 4
-              p Seleccionar las opciones de “Agregar #[em PATH]”, “Registrar code como editor de tipos de datos admitidos” y marca la opción “Crear un acceso directo en el escritorio” para que se pueda acceder a la aplicación de una manera más fácil luego de realizar la instalación de la aplicación, luego vamos al siguiente paso y seleccionamos instalar.
+              p Seleccionar las opciones de “Agregar PATH”, “Registrar code como editor de tipos de datos admitidos” y marca la opción “Crear un acceso directo en el escritorio” para que se pueda acceder a la aplicación de una manera más fácil luego de realizar la instalación de la aplicación, luego vamos al siguiente paso y seleccionamos instalar.
 
             .col-md-8
               figure
-                img(src='@/assets/curso/temas/tema3/slide-4.png')
+                img(src='@/assets/curso/temas/tema3/slide-4.png', alt="")
 
 
           .row.my-lg-4
             .col-md-4.mb-4.mb-md-0
               h4 Paso 5
-              p Una vez realizada la instalación del programa debemos poder visualizar la pantalla principal de la herramienta visual studio code, por lo cual nuestro proceso de instalación habrá culminado con éxito.
+              p Una vez realizada la instalación del programa debemos poder visualizar la pantalla principal de la herramienta Visual Studio Code, por lo cual nuestro proceso de instalación habrá culminado con éxito.
 
             .col-md-8
               figure
-                img(src='@/assets/curso/temas/tema3/slide-5.png')
+                img(src='@/assets/curso/temas/tema3/slide-5.png', alt="")
 
 
 

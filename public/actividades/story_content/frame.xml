@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="ADCF1" />
+              <option name="title_text" value="A--D" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1154,6 +1154,7 @@
       <string id="shortcut">Atajo</string>
       <string id="shortcuthelp">Listar los atajos de teclado</string>
       <string id="keyboardshortcuts">Atajos de teclado</string>
+      <string id="background_audio_shortcut">Activar/Desactivar el audio de fondo</string>
       <string id="acctext_shortcut">Activar/Desactivar texto accesible</string>
       <string id="togglezoom">Alternar los modos de zoom</string>
       <string id="closedcaptions_shortcut">Activar/Desactivar accesibilidad del texto</string>
@@ -1185,6 +1186,7 @@
       <string id="finish">FINALIZAR</string>
       <string id="acc_volume">volumen</string>
       <string id="keyboardshortcuts_lower">Atajos de teclado</string>
+      <string id="background_audio">Audio de fondo</string>
       <string id="zoom_to_fit">Habilitar zoom del navegador</string>
       <string id="acc_enter_fullscreen">Ingresar en el modo de pantalla completa</string>
       <string id="acc_exit_fullscreen">Salir del modo de pantalla completa</string>
@@ -1292,6 +1294,17 @@
       <string id="shift_key">Mayúsculas</string>
       <string id="acc_closed_captions">Subtítulos cerrados. Presiona la barra de espacio para activar y desactivar los subtítulos.</string>
       <string id="acc_active">activo</string>
+      <string id="transcript_auto_scroll">Desplazamiento automático</string>
+      <string id="acc_modern_video_transcript">Abrir</string>
+      <string id="acc_window_resize">Ajustar tamaño de ventana</string>
+      <string id="acc_window_close">Cerrar</string>
+      <string id="acc_video_transcript_list">Transcripciones</string>
+      <string id="acc_window_move">Mover ventana</string>
+      <string id="acc_window_options">Opciones</string>
+      <string id="transcript_show_timestamp">Mostrar marcas de tiempo</string>
+      <string id="video_transcript_resume_autoscroll">Reanudar desplazamiento automático</string>
+      <string id="video_transcript_select_track">Seleccionar pista</string>
+      <string id="video_transcript_title">Transcripciones</string>
       <string id="acc_playback_speed">velocidad de reproducción</string>
       <string id="playback_speed_title">Velocidad de reproducción</string>
       <string id="playback_speed_normal">Normal</string>
@@ -1316,12 +1329,12 @@
           <links>
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.64rZcxwdqXa" displaytext="¿Qué es un Editor de código?" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6GcNrKhHuYL" displaytext="Visual studio code es un editor de código." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6GcNrKhHuYL" displaytext="Visual Studio code es un editor de código." expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5dJg7QfsaCi" displaytext="Selecciona de la lista quién no es un editor de código." expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6pgX1xZSymS" displaytext="El orden de los pasos para la instalación de visual studio code son:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6pgX1xZSymS" displaytext="El orden de los pasos para la instalación de Visual Studio Code son:" expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5xwlqv81Hdx" displaytext="Es la creación de directorios aislados los cuales permiten realizar la configuración y componentes que sólo requiere tu proyecto sin necesidad de afectar todo el sistema en general." expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5vMRJaK2Y1n" displaytext="Github es un repositorio de código que se encuentra alojado en la nube y se utiliza para guardar archivos de código fuente y realizarle seguimiento a los mismos con respecto a los cambios o actualizaciones que estos puedan recibir." expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.63sXm9ZZLRo" displaytext="De acuerdo a lo visto en el componente formativo Camel Case, Pascal Case y Snake Case son 3 tipos de estándar de programación más utilizados para realizar la construcción de código de manera organizada y que pueda ser legible y modificable de manera fácil y sencilla." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.63sXm9ZZLRo" displaytext="De acuerdo a lo visto en el componente formativo: camel case, pascal case  y snake case son 3 tipos de estándar de programación más utilizados para realizar la construcción de código de manera organizada y que pueda ser legible y modificable de manera fácil y sencilla." expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5hCXfLz34NP" displaytext="En Python las variables solo pueden almacenar un tipo de dato." expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.6WULrOlRSXM" displaytext="Las estructuras de control se utilizan para validar y tomar decisiones dentro de un programa." expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.6GE5dfCe83f" displaytext="Una clase es una plantilla con el objetivo de la creación de objetos de datos según un modelo predefinido. Las clases se utilizan para representar entidades o conceptos, como los sustantivos en el lenguaje." expand="false" type="slide" />

@@ -7,43 +7,43 @@
         span 6
       h1 Estándares para la codificación de #[em software]
 
-    p.mb-4 Con relación a la realización de codificación y manejo de estándares de codificación, es importante para abordar esta temática se debe explorar el concepto de estándar, ya que teniendo claro este concepto se puede comprender de una manera mucho más específica su uso y manejo:
+    p.mb-4 Conocer la importancia del proceso de codificación y su manejo de estándares es importante para abordar y comprender esta temática de una manera mucho más específica en cuanto a su uso y aplicación.
 
     .bg-c13.mb-5
-      .px-5
+      .px-lg-5
         .row
           .col-lg-7
             .bg-c12.mb-3.ps-0.pe-4.py-2
               .d-flex.justify-content-start.align-items-center
-                img(src="@/assets/curso/temas/tema6/icon-lila2.svg", style="width: 53px").me-3
+                img(src="@/assets/curso/temas/tema6/icon-lila2.svg", style="width: 53px", alt="").me-3
                 div
-                  p.mb-3 Es un modelo que se toma como referencia para construir, diseñar o fabricar un producto. Los estándares tienen en su teoría una serie de pasos y reglas que se deben cumplir para garantizar la calidad y/o procesos se realicen de manera correcta.
-                  p.mb-0 Un estándar garantiza que un producto es bueno o de calidad ya que se siguen reglas de fabricación y medición en cada fase del proceso.
+                  p.mb-3 El concepto estándar es un modelo que se toma como referencia para construir, diseñar o fabricar un producto. Los estándares tienen en su teoría una serie de pasos y reglas que se deben cumplir para garantizar que la calidad y/o procesos se realicen de manera correcta.
+                  p.mb-0 Un estándar garantiza que un producto sea bueno o de calidad ya que se siguen ciertas reglas de fabricación y medición en cada fase del proceso.
 
             p Un ejemplo de lo anterior, puede ser la fabricación de una motocicleta:
 
           .col-lg-5
             figure.d-none.d-lg-block
-              img(src="@/assets/curso/temas/tema6/img1.png")
+              img(src="@/assets/curso/temas/tema6/img1.png", alt="")
 
         figure.mb-4.d-none.d-md-block
-          img(src="@/assets/curso/temas/tema6/moto-desktop.png")
+          img(src="@/assets/curso/temas/tema6/moto-desktop.png", alt="Ejemplo de estandar de fabricación de una moticicleta. Los tiempos de las válvulas requieren de una calibración especial, cada pieza funcional del motor va a requerir de un proceso de estandarizacón, se debe tener en cuenta para todas las motocicletas un modelos especifico y deberá tener una marca específica, lo que hace que todas presenten característica y capacidades técnicas similares")
 
         figure.mb-4.d-md-none
-          img(src="@/assets/curso/temas/tema6/moto-movil.svg", style="max-width: 464px").m-auto
+          img(src="@/assets/curso/temas/tema6/moto-movil.svg", style="max-width: 464px", alt="Ejemplo de estandar de fabricación de una moticicleta. Los tiempos de las válvulas requieren de una calibración especial, cada pieza funcional del motor va a requerir de un proceso de estandarizacón, se debe tener en cuenta para todas las motocicletas un modelos especifico y deberá tener una marca específica, lo que hace que todas presenten característica y capacidades técnicas similares").m-auto
 
         p.mb-4 Ahora bien, no solamente se hace referencia al proceso de fabricación, sino que también se debe tener en cuenta que se fabrica la motocicleta por primera vez y esta sirve de referencia para todas las demás fabricadas, ya que ha sido probada y ajustados sus valores de calibración y fondo que se tendrán en cuenta para todas las demás.
 
         .row.align-items-center.mb-4
           .col-lg-5
-            img(src="@/assets/curso/temas/tema6/img2.svg").mb-4.mb-md-0
+            img(src="@/assets/curso/temas/tema6/img2.svg", alt="").mb-4.mb-md-0
           .col-lg-7
             p.mb-4 Así mismo, funciona en programación, el estándar sirve para mantener un estilo y una forma de escribir el código fuente y que este sea interpretado de una manera estandarizada.
 
             .bg-c12.p-3.px-4
               p.mb-0 Eso quiere decir que pueda ser entendible por otros programadores para cuando se requiera realizar una modificación o agregar nuevas funciones y se pueda realizar este proceso sin traumatismos causados por el no entendimiento. Esto incluye nombres de variables, nombre de funciones, atributos, clases, entre otros componentes.
 
-        p.mb-4 Sabiendo esto de lo que representan los estándares, es importante que se vean los estándares de programación más utilizados para Python:
+        p.mb-4 Ahora bien, sabiendo lo que representan, es importante presentar los estándares de programación más utilizados para Python:
 
 
     TabsA.color-acento-contenido
@@ -79,14 +79,14 @@
         p #[i.fas.fa-check.me-2.txt-c2] De aumentar nivel dificultad, en notación Snake Case sería: #[strong.txt-c2 #[em aumentar_nivel_dificultad]]
 
     .bg-c14
-      .px-5
+      .px-lg-5
         .bg-c6.my-5
           .row
             .col-auto.d-none.d-md-block
-              img(src="@/assets/curso/temas/tema2/img3.svg", style="width: 85px")
+              img(src="@/assets/curso/temas/tema2/img3.svg", style="width: 85px", alt="")
             .col
               h4.text-white Camel Case:
-              p.text-white.mb-0 Es el estándar más utilizado por la mayoría de las comunidades de desarrolladores en el mundo y se ha convertido en una de las que mayor referencia tiene en el código fuente que se ha estudiado,  es el preferido por los programadores por su sencilla manera de uso y practicidad.
+              p.text-white.mb-0 Es el estándar más utilizado por la mayoría de las comunidades de desarrolladores en el mundo y se ha convertido en una de las que mayor referencia tiene en el código fuente que se ha estudiado. Es el preferido por los programadores por su sencilla manera de uso y practicidad.
 
         p.mb-5 Se puede ver en la siguiente figura 2 un ejemplo de Camel Case con Python:
 
@@ -95,7 +95,7 @@
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 2. #[span  Estándar Camel Case en Python]
             figure.figura
-              img(src="@/assets/curso/temas/tema6/img3.png")
+              img(src="@/assets/curso/temas/tema6/img3.png", alt="La imagen muestra un ejemplo del estándar Camel Case en Python. La variable se llama 'primerNota', y sigue la convención Camel Case. En este estándar, las palabras se escriben juntas sin espacios, y cada palabra adicional comienza con una letra mayúscula, a excepción de la primera palabra. En este caso, 'primer' es la primera palabra en minúsculas, mientras que 'Nota'  comienzancon letra mayúscula.")
               figcaption Nota. Pantalla en Visual Studio Code.
 
         p.mb-5 Como se puede observar se utiliza el estándar de codificación #[em Camel Case], uno de los más utilizados y preferido por los programadores como se comentó previamente.
@@ -110,13 +110,14 @@
 
             .row
               .col-auto
-                img(src="@/assets/curso/temas/tema6/img5.svg", style="width: 85px")
+                img(src="@/assets/curso/temas/tema6/img5.svg", style="width: 85px", alt="")
               .col
                 p.txt-c1(style="font-size: 0.92rem") #[strong Estos aportan calidad al producto de #[em software] que se desea construir y se debe tener en cuenta la palabra calidad, ya que el #[em software] es un producto y como tal requiere no solo de unos estándares para reflejar calidad, sino que también requiere llevar a cabo un proceso de documentación donde se consagra un documento llamado el manual del programador. ]
 
           .col-lg-5
-            img(src="@/assets/curso/temas/tema6/img4.png")
+            img(src="@/assets/curso/temas/tema6/img4.png", alt="")
 
+        p.mt-5 En este, se documenta el código y cada una de las funciones que realizan ciertas líneas de código y dicho documento se utiliza para generar una guía por si se requiere más adelante modificar o agregar nuevas funcionalidades al #[em software], se tenga un punto de partida para que el proceso se lleve a cabo con los menores contratiempos esperados.
 </template>
 
 <script>

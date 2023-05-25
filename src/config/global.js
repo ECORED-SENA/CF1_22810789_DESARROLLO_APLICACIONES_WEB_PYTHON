@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Entornos de desarrollo y codificación',
     descripcionCurso:
-      'Este componente formativo está orientado a entregar los conceptos y conocimientos en instalación y puesta en marcha de entorno de trabajo, conocer los estándares de codificación, manejo de variables, funciones, estructuras de control, clases objetos y gestión de proyectos en Python.',
+      'Este componente formativo está orientado a entregar los conceptos y conocimientos en instalación y puesta en marcha de un entorno de trabajo. También en el dar a conocer los estándares de codificación, manejo de variables, funciones, estructuras de control, clases objetos y gestión de proyectos en Python.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -168,7 +168,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=hLRoDs4wNCU',
     },
     {
-      tema: '. Gestión de proyectos en Python',
+      tema: 'Gestión de proyectos en Python',
       referencia:
         'Hinojosa Gutiérrez, Á. P. (2016). <em>Python: Paso a paso.</em> Ediciones de la U, Ra-Ma.',
       tipo: 'Libro',
@@ -211,7 +211,7 @@ export default {
     {
       termino: 'GitHub',
       significado:
-        'GitHub es un repositorio de código que se encuentra alojado en la nube y se utiliza para guardar archivos de código fuente y realizarle seguimiento a los mismos con respecto a los cambios o actualizaciones que estos puedan recibir.',
+        'es un repositorio de código que se encuentra alojado en la nube y se utiliza para guardar archivos de código fuente y realizarle seguimiento a los mismos con respecto a los cambios o actualizaciones que estos puedan recibir.',
     },
   ],
   referencias: [
