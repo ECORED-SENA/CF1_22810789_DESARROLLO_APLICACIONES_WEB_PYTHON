@@ -44,6 +44,10 @@
     p.txt-c1.mb-5 #[strong Se pueden ver entonces los pasos para la instalación de un entorno de desarrollo virtual:]
 
 
+    figure.mb-4
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/6aacYbscAlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption.mt-2 Video. Instalación de un entorno de desarrollo virtual.
     .tarjeta.tarjeta--celeste.p-4.mb-5
       .px-4
         SlyderA(tipo="b")
