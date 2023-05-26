@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.999" height="76.999" viewBox="0 0 76.999 76.999">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path93" d="M0-682.665H50.552v50.552H0Z" transform="translate(0 682.665)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1019903" data-name="Grupo 1019903" transform="translate(-331 -1539)">
+    <path id="Trazado_734782" data-name="Trazado 734782" d="M38.5,0A38.5,38.5,0,1,1,0,38.5,38.5,38.5,0,0,1,38.5,0Z" transform="translate(331 1539)" fill="#362b9e"/>
+    <g id="g87" transform="translate(344.224 2236.722)">
+      <g id="g89" transform="translate(0 -682.665)">
+        <g id="g91" clip-path="url(#clip-path)">
+          <g id="g97" transform="translate(21.637 1.481)">
+            <path id="path99" d="M0-152.855,11.571-165.08,6.812-146.044H22.675l-7.635,8.228" transform="translate(0 165.08)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+          </g>
+          <g id="g101" transform="translate(6.24 17.797)">
+            <path id="path103" d="M-331.542-187.031l-15.41,16.316,4.759-19.036h-15.863l11.558-12.238" transform="translate(358.056 201.989)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="g105" transform="translate(6.24 -676.425)">
+        <path id="path107" d="M0,0,38.072,38.072" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
