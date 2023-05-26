@@ -25,7 +25,7 @@
         .row.justify-content-center.mb-5
           .col-lg-8
             .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 3. #[span Ejemplos de sintaxis de las variables]
+              h5 Figura 3. <br>#[span #[em  Ejemplos de sintaxis de las variables]]
             figure.figura
               img(src="@/assets/curso/temas/tema7/img2.png", alt="La imagen muestra un ejemplo de la sintaxis de variables en Python. Se declara una variable llamada 'a' y se le asigna el valor numérico de '5'. En Python, la sintaxis para declarar una variable es simplemente escribir el nombre de la variable seguido de un signo igual ('=') y el valor que se le asignará.")
               figcaption Nota. Pantalla en Visual Studio Code.
@@ -34,14 +34,14 @@
           .col-lg-auto.d-none.d-lg-block
             img(src="@/assets/curso/temas/tema7/img3.svg", style= "width: 85px", alt="")
           .col-lg
-            p.mb-0 Como se puede observar en la figura las variables (a, b, c y d) tienen asignados diferentes tipos de datos y con la utilización de la función type permite saber qué tipo de variable es. En otros lenguajes de programación es necesario declarar el tipo de dato que soportará la variable, pero en el caso de Python una misma variable puede cambiar de tipo de dato sin tener ningún inconveniente.
+            p.mb-0 Como se puede observar en la figura las variables (a, b, c y d) tienen asignados diferentes tipos de datos y con la utilización de la función #[em type] permite saber qué tipo de variable es. En otros lenguajes de programación es necesario declarar el tipo de dato que soportará la variable, pero en el caso de Python una misma variable puede cambiar de tipo de dato sin tener ningún inconveniente.
 
         .row.justify-content-center.mb-5
           .col-lg-5.d-none.d-lg-block
             img(src="@/assets/curso/temas/tema7/img4.png", alt="")
           .col-lg-7
             .bg-c16.p-3.px-4.mb-4
-              p.mb-0 Esto refleja lo poderoso y versátil que es el lenguaje Python, en este caso particular se ha utilizado la misma variable para almacenar diferentes tipos de datos. Esta particularidad genera una ventaja al momento de realizar la codificación de un software puesto que se pueden reutilizar variables y por supuesto hacer un uso mucho más eficiente de la memoria RAM del equipo.
+              p.mb-0 Esto refleja lo poderoso y versátil que es el lenguaje Python, en este caso particular se ha utilizado la misma variable para almacenar diferentes tipos de datos. Esta particularidad genera una ventaja al momento de realizar la codificación de un #[em software] puesto que se pueden reutilizar variables y por supuesto hacer un uso mucho más eficiente de la memoria RAM del equipo.
 
             p A continuación, se pueden ver los conceptos que junto al manejo de variables forman parte del entorno de trabajo Python. #[strong.txt-c1 Ahora es tiempo de ver las estructuras de control, funciones, clases y objetos y conceptos claves para desarrollar en lenguaje de programación Python.]
 

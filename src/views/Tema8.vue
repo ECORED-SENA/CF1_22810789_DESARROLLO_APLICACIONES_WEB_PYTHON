@@ -32,7 +32,7 @@
 
           .col-lg-4.col-md-12.my-md-4.my-lg-0
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 4. #[span  Espacios en un proyecto Python]
+              h5 Figura 4. <br>#[span #[em Espacios en un proyecto Python]]
             figure.figura
               img(src="@/assets/curso/temas/tema8/img1.png", alt="La imagen muestra una captura de pantalla de los espacios de un proyecto en Python. En la interfaz de desarrollo, se puede observar la estructura de directorios y archivos del proyecto. ")
               figcaption Nota. Pantalla en Visual Studio Code.

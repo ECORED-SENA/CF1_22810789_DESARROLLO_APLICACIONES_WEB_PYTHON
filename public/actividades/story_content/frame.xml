@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="A--D" />
+              <option name="title_text" value="A-D" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1329,7 +1329,7 @@
           <links>
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.64rZcxwdqXa" displaytext="¿Qué es un Editor de código?" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6GcNrKhHuYL" displaytext="Visual Studio code es un editor de código." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6GcNrKhHuYL" displaytext="Visual Studio Code es un editor de código." expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5dJg7QfsaCi" displaytext="Selecciona de la lista quién no es un editor de código." expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.6pgX1xZSymS" displaytext="El orden de los pasos para la instalación de Visual Studio Code son:" expand="false" type="slide" />
             <slidelink slideid="_player.6g8RcXIVtvA.5xwlqv81Hdx" displaytext="Es la creación de directorios aislados los cuales permiten realizar la configuración y componentes que sólo requiere tu proyecto sin necesidad de afectar todo el sistema en general." expand="false" type="slide" />
