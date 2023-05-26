@@ -81,7 +81,7 @@
             .col-auto.d-xl-none.d-xxl-block
               img(src="@/assets/curso/temas/tema2/img3.svg", style="width: 85px", alt="")
             .col
-              p.text-white.mb-0 Una de estas herramientas que se traen a colación es TABNINE. Es un plugin utilizado en diversos editores de código que trabaja con tecnología #[em Deep Learning], la cual puede predecir si se utilizará una rutina específica o código. Esto sucede al llevar un registro del estilo de programación de cada persona y luego la herramienta ayuda a reutilizar dichas rutinas y a construir el código fuente de una manera mucho más sencilla y organizada.
+              p.text-white.mb-0 Una de estas herramientas que se traen a colación es TABNINE. Es un #[em plugin] utilizado en diversos editores de código que trabaja con tecnología #[em Deep Learning], la cual puede predecir si se utilizará una rutina específica o código. Esto sucede al llevar un registro del estilo de programación de cada persona y luego la herramienta ayuda a reutilizar dichas rutinas y a construir el código fuente de una manera mucho más sencilla y organizada.
 
 
       .col-xl-5.d-none.d-lg-block.col-lg-4
@@ -93,7 +93,7 @@
         .col-auto
           img(src="@/assets/curso/temas/tema2/img3.svg", style="width: 85px", alt="")
         .col
-          p.text-white.mb-0 Una de estas herramientas que se traen a colación es TABNINE. Es un plugin utilizado en diversos editores de código que trabaja con tecnología #[em Deep Learning], la cual puede predecir si se utilizará una rutina específica o código. Esto sucede al llevar un registro del estilo de programación de cada persona y luego la herramienta ayuda a reutilizar dichas rutinas y a construir el código fuente de una manera mucho más sencilla y organizada.
+          p.text-white.mb-0 Una de estas herramientas que se traen a colación es TABNINE. Es un #[em plugin] utilizado en diversos editores de código que trabaja con tecnología #[em Deep Learning], la cual puede predecir si se utilizará una rutina específica o código. Esto sucede al llevar un registro del estilo de programación de cada persona y luego la herramienta ayuda a reutilizar dichas rutinas y a construir el código fuente de una manera mucho más sencilla y organizada.
 
 </template>
 

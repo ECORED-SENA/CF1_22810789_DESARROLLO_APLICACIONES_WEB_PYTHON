@@ -13,7 +13,7 @@
       .px-5
         .row.align-items-center
           .col-lg-7
-            p.mb-4 Para este caso en particular de este componente formativo, se ha establecido trabajar con dos herramientas que son líderes a nivel mundial  #[strong.txt-c1(Git y Visual Studio Code)] para realizar este proceso, por lo cual se abordará la manera en cómo estas son usadas y su importancia en los proyectos de #[em software]:
+            p.mb-4 Para este caso en particular de este componente formativo, se ha establecido trabajar con dos herramientas que son líderes a nivel mundial  #[strong.txt-c1 (Git y Visual Studio Code)] para realizar este proceso, por lo cual se abordará la manera en cómo estas son usadas y su importancia en los proyectos de #[em software]:
 
             .bg-c9
               p.mb-4 #[strong Git:] es un programa que permite controlar las versiones que se trabajan en un #[em software]. Esto contribuye en el mejoramiento y desempeño de las aplicaciones, lo que permite realizar una actualización de los archivos de código fuente que se trabajan en el proyecto de #[em software]. También permite llevar un control detallado de todos los sucesos que ocurren al interior del código y así poder realizar cambios y que estos queden registrados para un mayor control. Esto ayuda a que se controle quién y cuándo se realiza un cambio en el código fuente de la aplicación.
