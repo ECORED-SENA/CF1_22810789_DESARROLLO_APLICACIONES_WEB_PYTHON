@@ -310,13 +310,13 @@ export default {
       autores: [
         {
           nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validación de contenidos',
+          cargo: 'Validación y vinculación en plataforma LMS	',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validación de contenidos',
+          cargo: 'Validación y vinculación en plataforma LMS	',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
