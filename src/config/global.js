@@ -286,8 +286,20 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres ',
+          cargo: 'Ilustración',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Mary Jeans Palacio Camacho ',
+          cargo: 'Producción audiovisual',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
