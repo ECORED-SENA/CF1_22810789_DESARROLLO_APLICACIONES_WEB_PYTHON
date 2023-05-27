@@ -25,7 +25,7 @@
         .row.justify-content-center.mb-5
           .col-lg-8
             .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 3. <br>#[span #[em  Ejemplos de sintaxis de las variables]]
+              h5 Figura 3. <br>#[span Ejemplos de sintaxis de las variables]
             figure.figura
               img(src="@/assets/curso/temas/tema7/img2.png", alt="La imagen muestra un ejemplo de la sintaxis de variables en Python. Se declara una variable llamada 'a' y se le asigna el valor numérico de '5'. En Python, la sintaxis para declarar una variable es simplemente escribir el nombre de la variable seguido de un signo igual ('=') y el valor que se le asignará.")
               figcaption Nota. Pantalla en Visual Studio Code.

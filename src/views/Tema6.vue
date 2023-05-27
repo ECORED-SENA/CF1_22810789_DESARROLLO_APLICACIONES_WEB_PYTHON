@@ -93,7 +93,7 @@
         .row.justify-content-center.mb-5
           .col-lg-8
             .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 2. <br>#[span #[em Estándar Camel Case en Python]]
+              h5 Figura 2. <br>#[span Estándar Camel Case en Python]
             figure.figura
               img(src="@/assets/curso/temas/tema6/img3.png", alt="La imagen muestra un ejemplo del estándar Camel Case en Python. La variable se llama 'primerNota', y sigue la convención Camel Case. En este estándar, las palabras se escriben juntas sin espacios, y cada palabra adicional comienza con una letra mayúscula, a excepción de la primera palabra. En este caso, 'primer' es la primera palabra en minúsculas, mientras que 'Nota'  comienzancon letra mayúscula.")
               figcaption Nota. Pantalla en Visual Studio Code.

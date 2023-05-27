@@ -33,7 +33,7 @@
               img(src="@/assets/curso/temas/tema2/img3.svg", style="width: 85px", alt="")
             .col
               h4.text-white Nota:
-              p.text-white.mb-0 en el video del material complementario se explica de manera detallada cómo realizar la instalación de la herramienta Git. Cuando se le pregunte el editor de código que se integrará, en ese paso se debe seleccionar la opción que dice #[code.etiqueta “Visual Studio Code”] para que el editor de código quede conectado con la herramienta #[code.etiqueta Git]. También se puede ver que existe una versión de Git llamada GUI, la cual permite crear los repositorios de una manera mucho más cómoda, ya que tiene una interfaz gráfica muy sencilla de operar.
+              p.text-white.mb-0 En el video del material complementario se explica de manera detallada cómo realizar la instalación de la herramienta Git. Cuando se le pregunte el editor de código que se integrará, en ese paso se debe seleccionar la opción que dice #[code.etiqueta “Visual Studio Code”] para que el editor de código quede conectado con la herramienta #[code.etiqueta Git]. También se puede ver que existe una versión de Git llamada GUI, la cual permite crear los repositorios de una manera mucho más cómoda, ya que tiene una interfaz gráfica muy sencilla de operar.
 
         .cajon-b.p-3.mb-4
           .row.align-items-center.justify-content-center

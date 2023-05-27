@@ -67,7 +67,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Estándares para la codificación de software',
+        titulo: 'Estándares para la codificación de <em>software</em>',
         desarrolloContenidos: true,
       },
       {
@@ -281,7 +281,7 @@ export default {
         },
         {
           nombre: 'Emilsen Alfonso Bautista',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador fullstack',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
@@ -310,13 +310,13 @@ export default {
       autores: [
         {
           nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validación de contenidos',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validación de contenidos',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },

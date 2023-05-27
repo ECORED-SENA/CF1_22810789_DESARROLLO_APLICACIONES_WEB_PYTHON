@@ -22,12 +22,12 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-4
       .row(titulo="Visual Studio Code")
         .col-lg.mb-4.mb-md-0
-          p.mb-4 Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y #[em Web].
+          p.mb-4 Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y web.
 
           p.mb-4 Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código.
 
 
-          p.mb-4 Este editor de código permite la integración de diferentes lenguajes de programación y realiza la codificación de cada uno de ellos, teniendo en cuenta su sintaxis y estructura. Actualmente, es una de las herramientas más utilizadas en el mercado para la codificación de aplicaciones informáticas con preferencia a la programación #[em web].
+          p.mb-4 Este editor de código permite la integración de diferentes lenguajes de programación y realiza la codificación de cada uno de ellos, teniendo en cuenta su sintaxis y estructura. Actualmente, es una de las herramientas más utilizadas en el mercado para la codificación de aplicaciones informáticas con preferencia a la programación web.
 
 
         .col-lg-auto.d-none.d-lg-block
