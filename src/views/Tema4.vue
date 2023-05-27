@@ -32,7 +32,7 @@
 
                 .bg-c8.mb-4
                   .d-flex.align-items-center.flex-column.flex-md-row
-                    p.mb-3.mb-md-0 Para el primer caso se requiere la instalación de las librerías L1 y L2, y para el segundo caso se necesita solo instalar la librería L2.
+                    p.mb-3.mb-md-0 Para el primer caso se requiere la instalación de las librerías L1 y L2, y para el segundo se necesita solo instalar la librería L2.
                     img(src='@/assets/curso/temas/tema4/img3.svg', style="max-width: 309px", alt="")
 
 

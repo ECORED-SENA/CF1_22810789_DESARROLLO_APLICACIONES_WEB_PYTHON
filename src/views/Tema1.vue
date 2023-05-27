@@ -53,7 +53,7 @@
         .row.justify-content-center
           .col-lg-8
             .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 1. <br>#[span Estructura de código fuente en Python]
+              h5 Figura 1. <br>#[span #[em Estructura de código fuente en Python]]
             figure.figura
               img(src="@/assets/curso/temas/tema1/img4.png", alt="La imagen muestra la estructura del código fuente, que consiste en una serie de instrucciones escritas en Python. La estructura se divide en tres partes: el código fuente original, la estructura en Python del programa y el resultado obtenido al ejecutar el programa.")
               figcaption Nota. Pantalla en Visual Studio Code.
