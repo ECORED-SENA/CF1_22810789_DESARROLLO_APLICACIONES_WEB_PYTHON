@@ -251,22 +251,22 @@ export default {
         {
           nombre: 'Zvi Daniel Grosman Landáez',
           cargo: 'Diseñador Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Dulfrán Antonio Montaño Montaño',
           cargo: 'Experto Temático',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Asesor Metodológico',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Corrector de Estilo ',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
       ],
     },
