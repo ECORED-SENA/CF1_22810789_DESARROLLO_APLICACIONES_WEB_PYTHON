@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Entornos de desarrollo y codificación',
     descripcionCurso:
-      'Este componente formativo está orientado a entregar los conceptos y conocimientos en instalación y puesta en marcha de un entorno de trabajo. También en el dar a conocer los estándares de codificación, manejo de variables, funciones, estructuras de control, clases objetos y gestión de proyectos en Python.',
+      'Este componente formativo está orientado a entregar los conceptos y conocimientos en instalación y puesta en marcha de un entorno de trabajo. También en el dar a conocer los estándares de codificación, manejo de variables, funciones, estructuras de control, clases, objetos y gestión de proyectos en Python.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -49,7 +49,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Proceso de instalación de visual estudio code',
+        titulo: 'Proceso de instalación de Visual Studio Code',
         desarrolloContenidos: true,
       },
       {
@@ -234,14 +234,14 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -250,22 +250,22 @@ export default {
       autores: [
         {
           nombre: 'Zvi Daniel Grosman Landáez',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Diseñador Instruccional',
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
           nombre: 'Dulfrán Antonio Montaño Montaño',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Asesor metodológico',
+          cargo: 'Asesor Metodológico',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Corrector de estilo ',
+          cargo: 'Corrector de Estilo ',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
@@ -275,33 +275,33 @@ export default {
       autores: [
         {
           nombre: 'Yerson Fabian Zarate Saavedra ',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Emilsen Alfonso Bautista',
-          cargo: 'Desarrollador fullstack',
+          cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Camilo Andrés Bolaño Rey',
           cargo: 'Locución',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres ',
-          cargo: 'Ilustración',
+          cargo: 'Storyboard e Ilustración',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Mary Jeans Palacio Camacho ',
-          cargo: 'Producción audiovisual',
+          cargo: 'Animador y Productor Multimedia',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -309,22 +309,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validación y vinculación en plataforma LMS	',
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validación y vinculación en plataforma LMS	',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Validación de contenidos accesibles',
+          nombre: 'Daniel Ricardo Mutis',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
