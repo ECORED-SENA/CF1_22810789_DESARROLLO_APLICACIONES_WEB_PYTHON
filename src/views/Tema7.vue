@@ -114,7 +114,7 @@
           figure.mb-4
             img(src='@/assets/curso/temas/tema7/img8.png', alt='La imagen muestra un ejemplo de una estructura de control simple en Python utilizando la sentencia if-else if-else', style= "width: 820px").m-auto
 
-          p.mb-4 Como se puede observar, a diferencia de la estructura de control anterior, esta permite que se realicen evaluaciones de condiciones si la negación de la primera falla.Lo que hace tener un árbol de decisión que contempla la posibilidad de realizar la elección de una cantidad de instrucciones a ejecutar dependiendo de los valores posibles que se puedan evaluar para una variable o conjunto de ellas.
+          p.mb-4 Como se puede observar, a diferencia de la estructura de control anterior, esta permite que se realicen evaluaciones de condiciones si la negación de la primera falla. Lo que hace tener un árbol de decisión que contempla la posibilidad de realizar la elección de una cantidad de instrucciones a ejecutar dependiendo de los valores posibles que se puedan evaluar para una variable o conjunto de ellas.
 
 
       .row(titulo="Estructuras de control anidadas")
